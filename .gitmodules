@@ -1,0 +1,3 @@
+[submodule "pdfplumber"]
+	path = pdfplumber
+	url = https://github.com/dongjiu522/pdfplumber.git
